@@ -1,0 +1,85 @@
+.app-button {
+    background-color: orange !important;
+    box-shadow: none !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.create-button {
+    background-color: grey !important;
+    box-shadow: none;
+    font-weight: bold;
+    position: 'absolute';
+    bottom: 0;
+    right: 0;
+    padding: '20px';
+}
+
+.create-button-container {
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.data-button {
+    background-color: rgb(255, 165, 0) !important;
+    box-shadow: none;
+    font-weight: bold;
+    color: white !important;
+    height:100px;
+}
+
+.pendingMember_accept_button {
+    font-weight: bold !important;
+    margin-left:10px !important;
+    margin-right:10px !important;
+    border: 1px solid black !important;
+    background-Color: rgb(85, 249, 85) !important;
+    box-shadow: none;
+    height: 30px;
+    color: black !important;
+    text-transform: none !important;
+}
+
+.pendingMember_deny_button {
+    font-weight: bold !important;
+    margin-left:10px !important;
+    margin-right:10px !important;
+    border: 1px solid black !important;
+    background-Color: rgb(249, 82, 82) !important;
+    box-shadow: none;
+    height: 30px;
+    color: black !important;
+    text-transform: none !important;
+}
+
+.exit_team_button {
+    border: 1px solid black !important;
+    background-Color: rgb(249, 82, 82) !important;
+    box-shadow: none;
+    color: black !important;
+}
+
+.exit_button_container {
+    position: fixed;
+    bottom: 30px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.back_start_button {
+    background-color: lightgrey !important;
+    box-shadow: none !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.code-text {
+    font-weight: bold;
+    font-size: 40px;
+}

@@ -1,0 +1,36 @@
+
+  .answers-input-rpe {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+  }
+  .answers-input {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+    margin-bottom: 15px;
+  }
+  
+  
+  .answer-option {
+    margin: 5px;
+  }
+
+  .question-container {
+    background-color: rgb(252, 210, 132);
+    padding: 20px;
+    margin-left: 5px;
+    display: inline-block;
+  }
+
+  button {
+    float: left;
+  }
+
+  .rpe-test {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  
+  
